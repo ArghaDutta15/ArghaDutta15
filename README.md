@@ -63,8 +63,8 @@ A responsive single-page portfolio to showcase projects and achievements.
 ## Contact
 
 **Email:** imarghadutta@gmail.com  
-**LinkedIn:** [linkedin.com/in/arghadutta04](https://www.linkedin.com/in/argha-dutta)  
-**Twitter:** [twitter.com/ArghaDutta04](https://twitter.com/arghatwts)
+**LinkedIn:** [linkedin.com/in/argha-dutta](https://www.linkedin.com/in/argha-dutta)  
+**Twitter:** [twitter.com/arghatwts](https://twitter.com/arghatwts)
 
 ---
 
