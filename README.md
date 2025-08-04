@@ -20,7 +20,7 @@ I enjoy solving real-world problems through code and continuously strive to impr
 ## Technical Skills
 
 **Languages:**  
-Python, C++, Java, JavaScript, SQL, ABAP
+Java, Python, C++, JavaScript, SQL, ABAP
 
 **Web & Backend:**  
 React, Node.js, Express, HTML, CSS
