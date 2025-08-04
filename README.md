@@ -1,6 +1,6 @@
 # Argha Dutta
 
-Final-year B.Tech CSE student | Aspiring Software Engineer  
+Final-year B.Tech IT student | Aspiring Software Engineer  
 Based in BURDWAN, West Bengal, India
 
 ---
