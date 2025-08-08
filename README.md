@@ -1,7 +1,7 @@
 # Argha Dutta
 
 Final-year B.Tech IT student | Aspiring Software Engineer  
-Based in BURDWAN, West Bengal, India
+Based in Kalyani, West Bengal, India
 
 ---
 
@@ -9,7 +9,9 @@ Based in BURDWAN, West Bengal, India
 
 I am a highly motivated and self-driven individual with a strong foundation in computer science and software development. My primary areas of interest include:
 
-- Backend Development
+- Front End Development
+- SAP Backend Development
+- SAP Consultant
 - Full-Stack Web Development
 - Software Engineering Principles
 
@@ -20,7 +22,7 @@ I enjoy solving real-world problems through code and continuously strive to impr
 ## Technical Skills
 
 **Languages:**  
-Java, Python, C++, JavaScript, SQL, ABAP
+Java, C, JavaScript, SQL, ABAP
 
 **Web & Backend:**  
 React, Node.js, Express, HTML, CSS
@@ -29,7 +31,10 @@ React, Node.js, Express, HTML, CSS
 MySQL, MongoDB, Firebase
 
 **Tools & Platforms:**  
-Git, GitHub, Postman, Eclipse, VS Code, SAP S/4 HANA, SAP BTP, SAP FIORI
+Git, Github, Postman, SAP S/4 HANA, SAP BTP, SAP FIORI
+
+**SAP Functional Modules:**  
+Sales & Distribution (SD), Materials Management (MM)
 
 
 ---
