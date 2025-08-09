@@ -25,21 +25,25 @@ I enjoy solving real-world problems through code and continuously strive to impr
 Java, C, JavaScript, SQL, ABAP
 
 **Web & Backend:**  
-React, Node.js, Express, HTML, CSS
+HTML, CSS, React JS, Next JS, Node JS, Express JS
 
 **Databases:**  
-MySQL, MongoDB, Firebase
+Firebase, MySQL, MongoDB
 
 **Tools & Platforms:**  
 Git, Github, Postman, SAP S/4 HANA, SAP BTP, SAP FIORI
 
 **SAP Functional Modules:**  
-Sales & Distribution (SD), Materials Management (MM)
+Sales & Distribution (SD), Materials Management (MM) (Beginner)
 
 
 ---
 
 ## Projects
+**PrepWise: AI MOCK INTERVIEW PLATFORM**  
+PrepWise is an AI-powered mock interview platform that helps users practice and refine their interview skills through realistic, interactive simulations.
+It provides instant feedback, personalized questions, and actionable tips to boost confidence and performance.
+*Technologies used:* Next.js, Tailwind, Vapi, Firebase
 
 **Shipment Delivery Application**  
 A full-stack application with user authentication, shipment tracking, and delivery status updates.  
@@ -52,12 +56,6 @@ An IoT-based solution for precision farming using soil moisture sensors and auto
 **Personal Portfolio Website**  
 A responsive single-page portfolio to showcase projects and achievements.  
 *Built with:* HTML, Tailwind CSS, React
-
----
-
-## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Argha-Dutta&show_icons=true&hide_title=true&theme=default)](https://github.com/Argha-Dutta)
 
 ---
 
