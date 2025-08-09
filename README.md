@@ -43,6 +43,7 @@ Sales & Distribution (SD), Materials Management (MM) (Beginner)
 **PrepWise: AI MOCK INTERVIEW PLATFORM**  
 PrepWise is an AI-powered mock interview platform that helps users practice and refine their interview skills through realistic, interactive simulations.
 It provides instant feedback, personalized questions, and actionable tips to boost confidence and performance.
+
 *Technologies used:* Next.js, Tailwind, Vapi, Firebase
 
 **Shipment Delivery Application**  
