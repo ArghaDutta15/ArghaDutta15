@@ -22,24 +22,32 @@ I enjoy solving real-world problems through code and continuously strive to impr
 ## Technical Skills
 
 **Languages:**  
-Java, C, JavaScript, SQL, ABAP
+JAVA, C, SAP ABAP
 
 **Web & Backend:**  
 HTML, CSS, React JS, Next JS, Node JS, Express JS
 
 **Databases:**  
-Firebase, MySQL, MongoDB
+Firebase, MongoDB
 
 **Tools & Platforms:**  
 Git, Github, Postman, SAP S/4 HANA, SAP BTP, SAP FIORI
-
-**SAP Functional Modules:**  
-Sales & Distribution (SD), Materials Management (MM) (Beginner)
 
 
 ---
 
 ## Projects
+
+**Real Estate Web Application**  
+• Implemented interactive UI with React Hooks, Framer Motion, and Mantine UI, ensuring smooth navigation and
+modern design.
+• Developed a responsive property listing platform using React, MongoDB, and Cloudinary with features like property
+search, favorites, and authentication.
+• Integrated property management features (add, search, map view) with secure authentication (Auth0) for role-based
+access.
+
+*Technologies used:* React.js, MongoDB, Express.js, Node.js
+
 **PrepWise: AI MOCK INTERVIEW PLATFORM**  
 PrepWise is an AI-powered mock interview platform that helps users practice and refine their interview skills through realistic, interactive simulations.
 It provides instant feedback, personalized questions, and actionable tips to boost confidence and performance.
