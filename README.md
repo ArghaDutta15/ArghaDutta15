@@ -41,8 +41,10 @@ Git, Github, Postman, SAP S/4 HANA, SAP BTP, SAP FIORI
 **Real Estate Web Application**  
 • Implemented interactive UI with React Hooks, Framer Motion, and Mantine UI, ensuring smooth navigation and
 modern design.
+
 • Developed a responsive property listing platform using React, MongoDB, and Cloudinary with features like property
 search, favorites, and authentication.
+
 • Integrated property management features (add, search, map view) with secure authentication (Auth0) for role-based
 access.
 
@@ -72,7 +74,6 @@ A responsive single-page portfolio to showcase projects and achievements.
 
 **Email:** imarghadutta@gmail.com  
 **LinkedIn:** [linkedin.com/in/argha-dutta](https://www.linkedin.com/in/argha-dutta)  
-**Twitter:** [twitter.com/arghatwts](https://twitter.com/arghatwts)
 
 ---
 
